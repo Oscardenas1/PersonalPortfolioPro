@@ -1,2 +1,2 @@
 # PersonalPortfolioPro
- A personal Portfolio Usinb Bootstrap and other advanced techniques
+ A personal Portfolio Using Bootstrap and other advanced techniques
