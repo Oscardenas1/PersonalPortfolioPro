@@ -1,0 +1,19 @@
+
+/* NavBar */
+.top-brand {
+  font-weight: bold;
+  color: #fff;
+}
+
+.navigation-bar {
+  background-image: linear-gradient(315deg, #36096d 0%, #37d5d6 74%);
+}
+
+.navbar-light .navbar-toggler {
+  color: #000000 0.01%;
+  opacity: 0.9;
+  border-color: #f9fafb;
+}
+.nav:hover{
+  color: #fff;
+}
